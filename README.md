@@ -5,7 +5,7 @@
 Hi, This is Azure Made Easy a YouTuber and IT professional with a passion for helping others learn about Azure technologies. I've been working in the IT industry for 10+ years and have gained extensive experience in cloud engineering with an Azure focus. 
 ## Projects
 
-* [Project 1](https://github.com/azuretestvideo/storageaccount)
+* [Using Azure Storage Account to Host a Website](https://github.com/azuretestvideo/storageaccount)
 * [Project 2](https://github.com/username/project2)
 * [Project 3](https://github.com/username/project3)
 
